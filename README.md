@@ -1,1 +1,1 @@
-Using local machine
+Using vagrant
